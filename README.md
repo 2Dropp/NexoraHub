@@ -1,4 +1,5 @@
-<img width="923" height="335" alt="image" src="https://github.com/user-attachments/assets/134a7ccb-678e-40b0-9ed0-9be1aaf1c611" /># NexoraHub
+<img width="1000" height="1000" alt="Nexora_hub" src="https://github.com/user-attachments/assets/9d857614-6296-44f1-8331-abbc4fb65309" />
+
 NexoraHub is a desktop launcher for managing local Minecraft modpack profiles.
 
 PRIVACITY:
